@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "id": "1fc5",
+      "sender": "John",
+      "message": "csdcsd",
+      "timestamp": "2024-12-04T06:40:06.057Z"
+    },
+    {
+      "id": "d918",
+      "sender": "Test",
+      "message": "csdcsd",
+      "timestamp": "2024-12-04T06:45:31.218Z"
+    },
+    {
+      "id": "cbfc",
+      "sender": "asdf",
+      "message": "asd"
+    },
+    {
+      "id": "dc0e",
+      "sender": "sdf",
+      "message": "asdf"
+    },
+    {
+      "id": "315a",
+      "sender": "asdfv",
+      "message": "asdf"
+    },
+    {
+      "id": "f9be",
+      "sender": "sadfedcsdedc",
+      "message": "ASDWAED"
+    }
+  ]
+}

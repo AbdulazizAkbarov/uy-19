@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <title>Document</title>
+</head>
+<body>
+  <div id="nameSelection" class="name-selection">
+    <h2>Kimni ismidan yozishni tanlang</h2>
+    <button onclick="setUserName('Abdulaziz')">Abdulaziz</button>
+    <button onclick="setUserName('Jaxongir')">Jaxongir</button>
+  </div>
+
+  <div id="chatContainer" class="chat-container" style="display: none;">
+    <div class="messages" id="messages"></div>
+    <input type="text" id="messageInput" placeholder="Enter Text..."/>
+    <button onclick="sendMessage()">Send</button>
+    <button onclick="changeUserName()" class="switch-name">Change Name</button>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
